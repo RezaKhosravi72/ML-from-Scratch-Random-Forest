@@ -31,6 +31,7 @@ This implementation builds the random forest classifier from scratch without usi
 
 
 ### Evaluation:  
+
 Evaluation is done by calculating prediction accuracy on the test set. It is worth mentioning that this algorithm is:
 
   - Tested on breast cancer dataset from scikit-learn with 10-fold cross-validation.
@@ -40,14 +41,10 @@ Evaluation is done by calculating prediction accuracy on the test set. It is wor
   - Parameters tuning of max_depth and n_estimators (number of trees) were utilized to optimize performance.
 
 ### Skills: 
+
 Algorithm design, NumPy, Classification, Ensemble methods, Scikit-learn datasets. 
 
 #### Outcome: 
 Successful implementation of Random Forest from scratch establishing the core understanding of the algorithm. The thorough evaluation showed the viability of the approach for real-world problems. 
 
-On the whole, this project provides an example of my skills in algorithm design and implementation, classification modeling, and hands-on experience with standard ML techniques and datasets. It is indeed worth mentioning that the from-scratch approach strengthened conceptual understanding. Some noteworthy aspects:
-
-- Bootstrap sampling for each tree
-- Bagging approach of combining predictions 
-- Parameter tuning like max_depth, n_trees, etc
-- Evaluation on a held-out test data
+On the whole, this project provides an example of my skills in algorithm design and implementation, classification modeling, and hands-on experience with standard ML techniques and datasets. It is indeed worth mentioning that the from-scratch approach strengthened conceptual understanding. 
