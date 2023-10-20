@@ -47,4 +47,4 @@ Algorithm design, NumPy, Classification, Ensemble methods, Scikit-learn datasets
 #### Outcome: 
 Successful implementation of Random Forest from scratch establishing the core understanding of the algorithm. The thorough evaluation showed the viability of the approach for real-world problems. 
 
-On the whole, this project provides an example of my skills in algorithm design and implementation, classification modeling, and hands-on experience with standard ML techniques and datasets. It is indeed worth mentioning that the from-scratch approach strengthened conceptual understanding. 
+On the whole, this project provides an example of my skills in algorithm design and implementation, classification modeling, and hands-on experience with standard ML techniques and datasets. It is indeed worth mentioning that the from-scratch approach strengthened conceptual understanding.
